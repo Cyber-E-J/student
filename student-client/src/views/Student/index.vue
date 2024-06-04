@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-container>
-      <el-header style="text-align: right; font-size: 18px; background-color: #409EFF; border-radius: 3px">
+      <el-header style="text-align: right; font-size: 18px; background-color: #000000; border-radius: 3px">
         <r-header></r-header>
       </el-header>
       <el-container>
